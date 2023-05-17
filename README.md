@@ -1,3 +1,3 @@
 # formatted_text_prototype
 
-This was a prototype for RText, a rich text library for the LÖVE Framework. A more recent version can be found [here](https://github.com/rabbitboots/rtext).
+This was a prototype for [RText](https://github.com/rabbitboots/rtext), a rich text library for the LÖVE Framework.
